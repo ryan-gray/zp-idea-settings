@@ -1,0 +1,12 @@
+<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="shift meta k" />
+  </action>
+  <action id="Gradle.ExecuteTask">
+    <keyboard-shortcut first-keystroke="ctrl g" />
+  </action>
+  <action id="SelectNextOccurrence" />
+  <action id="Vcs.Push">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
+</keymap>
