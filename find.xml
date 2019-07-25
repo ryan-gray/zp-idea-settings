@@ -2,9 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.cfc,*.cfm" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -18,12 +17,12 @@
     <mask>*</mask>
     <mask>*.cfm</mask>
     <mask>*.groovy</mask>
-    <mask>*.cfc,*.cfm</mask>
     <mask>*.vue</mask>
     <mask>Mock*.js</mask>
     <mask>*Test.js</mask>
     <mask>*.html</mask>
     <mask>*.js</mask>
     <mask>*.less</mask>
+    <mask>*.cfc,*.cfm</mask>
   </component>
 </application>
