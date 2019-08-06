@@ -25,5 +25,6 @@
     <mask>*.cfc,*.cfm</mask>
     <mask>*.js</mask>
     <mask>*.html</mask>
+    <mask>!*.css</mask>
   </component>
 </application>
