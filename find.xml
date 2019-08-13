@@ -1,10 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="zp-app-all" />
-    <option name="defaultScopeName" value="zp-app-all" />
+    <option name="customScope" value="zp-" />
+    <option name="defaultScopeName" value="zp-" />
     <option name="localCaseSensitive" value="true" />
+    <option name="regularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="zp-app-all" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="zp-" />
     <option name="FILE_MASK" value="*.js" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
