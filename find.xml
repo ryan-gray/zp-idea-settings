@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Test.js" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -20,11 +21,11 @@
     <mask>*.groovy</mask>
     <mask>*.vue</mask>
     <mask>Mock*.js</mask>
-    <mask>*Test.js</mask>
     <mask>*.less</mask>
     <mask>*.cfc,*.cfm</mask>
     <mask>!*.css</mask>
     <mask>*.html</mask>
     <mask>*.js</mask>
+    <mask>*Test.js</mask>
   </component>
 </application>
