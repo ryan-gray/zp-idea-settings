@@ -22,11 +22,11 @@
     <mask>*.groovy</mask>
     <mask>*.vue</mask>
     <mask>Mock*.js</mask>
-    <mask>*.less</mask>
     <mask>*.cfc,*.cfm</mask>
     <mask>!*.css</mask>
     <mask>*.html</mask>
     <mask>*Test.js</mask>
     <mask>*.js</mask>
+    <mask>*.less</mask>
   </component>
 </application>
