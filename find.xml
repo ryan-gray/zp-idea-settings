@@ -24,9 +24,9 @@
     <mask>Mock*.js</mask>
     <mask>*.cfc,*.cfm</mask>
     <mask>!*.css</mask>
-    <mask>*.html</mask>
     <mask>*Test.js</mask>
     <mask>*.js</mask>
     <mask>*.less</mask>
+    <mask>*.html</mask>
   </component>
 </application>
