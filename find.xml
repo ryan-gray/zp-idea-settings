@@ -26,7 +26,7 @@
     <mask>!*.css</mask>
     <mask>*Test.js</mask>
     <mask>*.js</mask>
-    <mask>*.less</mask>
     <mask>*.html</mask>
+    <mask>*.less</mask>
   </component>
 </application>
