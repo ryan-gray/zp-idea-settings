@@ -28,5 +28,6 @@
     <mask>*.js</mask>
     <mask>*.html</mask>
     <mask>*.less</mask>
+    <mask>*.js*</mask>
   </component>
 </application>
